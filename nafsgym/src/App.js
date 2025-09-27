@@ -15,7 +15,7 @@ import {
   BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer,
   PieChart, Pie, Cell
 } from "recharts";
-import logo from "./assets/logo-faviconR.png";
+import logo from "./assets/logo.png";
 
 // --- Datos ficticios ---
 const actividades = [
