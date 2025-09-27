@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/gimm/static/css/main.3982bb5f.css",
-    "main.js": "/gimm/static/js/main.2cf451ea.js",
-    "static/media/logo-faviconR.png": "/gimm/static/media/logo-faviconR.fc6076d61d4a3913d55f.png",
+    "main.js": "/gimm/static/js/main.27fbf783.js",
+    "static/media/logo.png": "/gimm/static/media/logo.6816331e53817fcbba43.png",
     "index.html": "/gimm/index.html",
     "main.3982bb5f.css.map": "/gimm/static/css/main.3982bb5f.css.map",
-    "main.2cf451ea.js.map": "/gimm/static/js/main.2cf451ea.js.map"
+    "main.27fbf783.js.map": "/gimm/static/js/main.27fbf783.js.map"
   },
   "entrypoints": [
     "static/css/main.3982bb5f.css",
-    "static/js/main.2cf451ea.js"
+    "static/js/main.27fbf783.js"
   ]
 }
